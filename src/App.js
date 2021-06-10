@@ -1,25 +1,21 @@
-import logo from './logo.svg';
+import logo from './utils/images/logo.svg';
 import './App.css';
+import Todo from'./Components/Todo.jsx'
+import Cuerpo from './Components/Cuerpo.jsx'
+import Footer from './Components/Footer.jsx'
+import Title from './Components/Title.jsx'
+import GlobalStyles from './GlobalStyle.js'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	 return (
+	    <div className="App">
+	      <GlobalStyles />
+	      <Title/>
+	      <Todo />
+	      <Cuerpo />
+	      <Footer />
+	    </div>
+	 );
 }
 
 export default App;
