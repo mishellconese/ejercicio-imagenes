@@ -9,7 +9,7 @@ const GlobalStyles = createGlobalStyle`
 	width: 50%;
 	margin: 10px;
 	font-family: Impact;
-	font-size: 20px;
+	font-size: 30px;
 }
 .Container_Text p{
 	font-family:'Hind';
