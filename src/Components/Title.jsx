@@ -5,7 +5,7 @@ function Title() {
 	return (
 		<div className="Container_Title">
 			
-			<h1 id="PrincipalTitle">ARTE ABSTRACTO</h1>
+			<h1 id="PrincipalTitle">EJEMPLO CON RICK AND MORTY</h1>
 
 		</div>
 	)
