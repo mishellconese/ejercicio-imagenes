@@ -7,10 +7,10 @@ function Cuerpo() {
 		<div className="Container_Cuerpo">
 		<div className="Container_Text">
 			<h1 id="textoCuerpo">
-			Hola esté es el componente del Cuerpo
+			Part of body
 			</h1>
 			<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit euismod condimentum eleifend et, nibh nisi facilisis metus risus primis vehicula nam interdum. Facilisis ornare mus lobortis neque ad hac, molestie ut arcu himenaeos accumsan integer, pretium at aliquet diam scelerisque. Sem diam natoque egestas lobortis nisi tortor molestie ultrices, sagittis primis nec ante congue nulla dignissim massa felis nullam scelerisque faucibus erat rutrum posuere.
+			Lorem ipsum dolor sit amet consectetur adipiscing elit euismod condimentum eleifend et, nibh nisi facilisis metus risus primis vehicula nam interdum. Facilisis ornare mus lobortis neque ad hac, molestie ut arcu himenaeos accumsan integer, pretium at aliquet diam scelerisque. Sem diam natoque egestas lobortis nisi tortor molestie ultrices, sagittis primis nec ante congue nulla dignissim massa felis us
 			</p>
 		</div>
 			<div className="Container_img">

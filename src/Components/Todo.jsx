@@ -6,9 +6,9 @@ function Todo() {
 	return (
 		<div className="Container_Cabecera">
 			<div className="Container_Text">
-				<h1 id="TextoCabecera">Hola esté es el componente de la Cabecera</h1>
+				<h1 id="TextoCabecera">Part of header</h1>
 				<p>
-				Lorem ipsum dolor sit amet consectetur adipiscing elit euismod condimentum eleifend et, nibh nisi facilisis metus risus primis vehicula nam interdum. Facilisis ornare mus lobortis neque ad hac, molestie ut arcu himenaeos accumsan integer, pretium at aliquet diam scelerisque. Sem diam natoque egestas lobortis nisi tortor molestie ultrices, sagittis primis nec ante congue nulla dignissim massa felis nullam scelerisque faucibus erat rutrum posuere.
+				Lorem ipsum dolor sit amet consectetur adipiscing elit euismod condimentum eleifend et, nibh nisi facilisis metus risus primis vehicula nam interdum. Facilisis ornare mus lobortis neque ad hac, molestie ut arcu himenaeos accumsan integer, pretium at aliquet diam scelerisque. Sem diam natoque egestas lobortis nisi tortor molestie ultrices, sagittis primis nec ante congue nulla dignissim.
 				</p>
 			</div>
 			
